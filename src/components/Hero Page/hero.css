@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "GHEA Koryun W01 Regular";
+  src: url("d8813bc23202cd8c6f48f5e03bf634c8.eot"); /* IE9*/
+  src: url("d8813bc23202cd8c6f48f5e03bf634c8.eot?#iefix")
+      format("embedded-opentype"),
+    /* IE6-IE8 */ url("d8813bc23202cd8c6f48f5e03bf634c8.woff2") format("woff2"),
+    /* chrome、firefox */ url("d8813bc23202cd8c6f48f5e03bf634c8.woff")
+      format("woff"),
+    /* chrome、firefox */ url("d8813bc23202cd8c6f48f5e03bf634c8.ttf")
+      format("truetype"),
+    /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+      url("d8813bc23202cd8c6f48f5e03bf634c8.svg#GHEA Koryun W01 Regular")
+      format("svg"); /* iOS 4.1- */
+}
+
+#callforaction {
+  font-family: "GHEA Koryun W01 Regular" !important;
+  letter-spacing: 2.5px;
+  font-weight: 500;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-stroke-width: 0.2px;
+  -moz-osx-font-smoothing: grayscale;
+}
