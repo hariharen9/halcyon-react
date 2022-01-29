@@ -10,8 +10,6 @@ function App() {
       <div class="flex h-screen justify-center items-center">
         <Service />
       </div>
-
-      <Mobile />
     </div>
   );
 }
