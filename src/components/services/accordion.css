@@ -1,0 +1,24 @@
+#panel1d-header {
+  background-color: white;
+}
+#panel2d-header {
+  background-color: white;
+}
+#panel3d-header {
+  background-color: white;
+}
+#panel4d-header {
+  background-color: white;
+}
+.accordion-text {
+  color: black;
+  -webkit-transition: color 0.5s;
+  -moz-transition: color 0.5s;
+  -ms-transition: color 0.5s;
+  -o-transition: color 0.5s;
+  transition: color 0.5s;
+}
+
+.accordion-text:hover {
+  color: #30a4e4;
+}
