@@ -5,6 +5,7 @@ import Hero from './components/Hero Page/hero'
 import Mobile from './components/MobilePage/Mobile'
 import Service from './components/services/service_section'
 import CardGrid from './components/AccordionReplacement/CardGrid'
+import Cardd from './components/Carddd/Card'
 function App() {
   return (
     <div>
@@ -15,6 +16,7 @@ function App() {
       <div class='flex justify-center items-center'>
         <CardGrid />
       </div>
+      <Cardd />
     </div>
   )
 }
